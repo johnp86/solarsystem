@@ -15,8 +15,10 @@
     </head>
     <body>
         
-        <svg id="ss">
-        </svg>
+        <div class="ss-wrap">
+            <svg version="1.1" width="800" height="800" viewBox="200 20 800 800" id="ss">
+            </svg>
+        </div>
 
         <script src="planetsOO.js"></script>
     </body>
